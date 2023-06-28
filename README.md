@@ -1,7 +1,7 @@
 <p align="center">
 <img src=".github/Thumbnail%20(1).png" alt="Demonstração do projeto" width="100%" />
 </p>
-<h1 align="center"> Habits </h1>
+<h1 align="center"> Cápsula do tempo </h1>
 
 <p align="center">
 NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habits é um app para ajudar a rastrear os hábitos.
+Esse é um projeto Web Responsivo de uma cápsula do tempo para exibir memórias em uma linha do tempo.
 
 - [Visite o projeto online](https://lorenzocamargo1.github.io/capsula-do-tempo-ash-ketchum)
 
